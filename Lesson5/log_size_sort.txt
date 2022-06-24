@@ -1,0 +1,14 @@
+0	/var/log/btmp
+0	/var/log/wtmp
+4.0K	/var/log/alternatives.log
+4.0K	/var/log/dist-upgrade
+4.0K	/var/log/journal
+4.0K	/var/log/landscape
+4.0K	/var/log/lastlog
+4.0K	/var/log/unattended-upgrades
+8.0K	/var/log/apt/history.log
+24K	/var/log/apt/eipp.log.xz
+36K	/var/log/apt/term.log
+64K	/var/log/dpkg.log
+72K	/var/log/apt
+164K	/var/log
